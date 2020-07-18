@@ -1,4 +1,5 @@
 # HeathBot---React-Native-Chatbot-on-health
+This is Health Chatbot working in progress. It will help to predict disease.
 
 This is an React Nativ app work on Android and IOS
 
