@@ -13,3 +13,8 @@ Health Bot help to get disease
 
 
 Healthbot is user friendly.
+<br></br>
+<dl>
+  <dt>Predict and advice disease</dt>
+  <dd> - Only Advice not Confirmed.</dd>
+</dl>
